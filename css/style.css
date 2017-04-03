@@ -1,0 +1,14 @@
+#forma
+{
+  display: none;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: relative;
+  top: 200px;
+  left: 20px;
+}
+.bold
+{
+  font-weight: bold;
+}
